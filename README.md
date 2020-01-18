@@ -8,7 +8,7 @@ Compile it as:
 "gcc keylogger.c -o <executable_file>"
 
 And then run it as:
-"./<executable_file> &"  (& is for running the task in background)
+"./<executable_file> &"  (& is for running the task in background).
 We need to run it as root. 
 
 Logging file 'keylogs' will be stored in same directory.
